@@ -1,5 +1,7 @@
 ---
+layout: base.njk
 title: My First Post
+tags: posts
 ---
 
 # Hello World
